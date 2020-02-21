@@ -1,7 +1,8 @@
 Search Me!
 
 
-I have used tesseract ocr for image processing in the above program.The user needs to type  the name which he/she wants to search. The code works in the following way:
+I have used tesseract ocr for image processing in the above program.
+The user needs to type  the name which he/she wants to search. The code works in the following way:
 •	The directory of the folder is specified in the location
 •	Object f of File type stores the location of each file in the folder
 •	It is kept in a for each loop and text of each file is read and stored in a String variable
